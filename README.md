@@ -30,30 +30,30 @@
 
 ---
 
-## 🔥 About
+## About
 **Volcana-CSIC** is a research project analyzing volcanic activity in the Canary Islands through satellite remote sensing and geospatial analysis. The project focuses on:
 
 - Thermal monitoring of Teide and Tajogaite (La Palma) volcanoes
 - Multi-sensor satellite data processing (MODIS, VIIRS, Sentinel)
 
-## 🎯 Project Goals
+## Project Goals
 
-### 🌋 Volcanic Monitoring
+### Volcanic Monitoring
 - Analyze brightness temperature and radiance patterns
 - Model post-eruption lava cooling curves (2021 La Palma eruption)
 - Monitor Teide's fumarole fields using thermal infrared data
 
-### ⚡ Seismic-Volcanic Relationships
+### Seismic-Volcanic Relationships
 - Global analysis of earthquake-eruption correlations
 - Statistical modeling of eruption triggers
 - Case studies of notable eruption sequences
 
-### 🛠 Technical Development
+### Technical Development
 - Python tools for satellite data processing
 - Automated visualization pipelines
 - ML models for eruption prediction
 
-## 📊 Data Sources
+## Data Sources
 - NASA LAADS DAAC (MODIS/VIIRS)
 - Copernicus Open Access Hub (Sentinel)
 - USGS Volcano Hazards Program
