@@ -96,7 +96,6 @@ We would like to acknowledge the following:
 - **[Spanish National Research Council (CSIC)](https://www.csic.es)** for providing resources and the opportunity to work on this project.
 - **[NASA LAADS DAAC](https://ladsweb.modaps.eosdis.nasa.gov/)** for the satellite data used in this research.
 - **[USGS Volcano Hazards Program](https://www.usgs.gov/)** for the earthquake and eruption data.
-- **[Centro Superior de Investigaciones Científicas](https://www.csic.es/es)**
 - **[Instituto de Productos Naturales y Agrobiología](https://ipna.csic.es/)**
 - To **Pablo José González and Thomas Boulesteix** for their collaboration and support throughout the project.
 - Special thanks to **Simone Salvatore Aveni** for providing crucial data for the completion of this project.
