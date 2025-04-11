@@ -2,8 +2,8 @@ name: Ejecutar script cada noche
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # Esto ejecutará a las 2:00 AM UTC
-  workflow_dispatch:  # Permite ejecutar manualmente desde GitHub
+    - cron: '0 2 * * *'  
+  workflow_dispatch:  
 
 jobs:
   run-script:
@@ -16,7 +16,7 @@ jobs:
       - name: Configurar Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'  # Usa la versión que necesites
+          python-version: '3.x'  
 
       - name: Instalar dependencias
         run: |
@@ -24,4 +24,4 @@ jobs:
           pip install -r requirements.txt
 
       - name: Ejecutar main.py
-        run: python CSIC_Internship/main.py  # Ruta correcta al script
+        run: python main.py  
