@@ -72,18 +72,18 @@ To run this project locally, follow these steps:
 ## Usage
 Once the application is running, you can use it to:
 
--Visualize real-time thermal data of volcanic activity.
--Generate plots of lava cooling curves.
--Analyze seismic-volcanic correlations.
+- Visualize real-time thermal data of volcanic activity.
+- Generate plots of lava cooling curves.
+- Analyze seismic-volcanic correlations.
 
 ## Contact
 For any questions, feel free to reach out:
 
--emails: alu0101444079@ull.edu.es (Mónica Marín)
+- emails: alu0101444079@ull.edu.es (Mónica Marín)
          alu0101436548@ull.edu.es (Joel Reyes)
          alu0101465142@ull.edu.es (Jesús Javier Apesteguía)
          alu0101513249@ull.edu.es (Laura Rodríguez)
--GitHub: https://github.com/JowiRey/CSIC_Internship
+- GitHub: https://github.com/JowiRey/CSIC_Internship
 
 
 ## Acknowledgements
