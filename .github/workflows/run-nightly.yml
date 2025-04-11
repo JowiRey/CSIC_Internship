@@ -2,7 +2,7 @@ name: Ejecutar script cada noche
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # Ejecuta a las 2:00 AM UTC todos los días
+    - cron: '0 2 * * *'  # Esto ejecutará a las 2:00 AM UTC
   workflow_dispatch:  # Permite ejecutar manualmente desde GitHub
 
 jobs:
@@ -23,5 +23,5 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Ejecutar script
-        run: python main.py
+      - name: Ejecutar main.py
+        run: python CSIC_Internship/main.py  # Ruta correcta al script
