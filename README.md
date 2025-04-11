@@ -5,7 +5,7 @@
 <h1 align="center">Volcanic Data Analysis for Canary Islands</h1>
 
 <p align="center">
-  <a href="https://github.com/Jesus-Javier-code/Practicas_Empresa_CSIC"><strong>📚 Documentation</strong></a> •
+  <a href="[https://github.com/JowiRey/CSIC_Internship.git]"><strong>📚 Documentation</strong></a> •
   <a href="https://ladsweb.modaps.eosdis.nasa.gov/"><strong>🛰 NASA LAADS DAAC</strong></a> •
   <a href="https://www.usgs.gov/"><strong>🌋 USGS Data</strong></a> •
   <a href="https://github.com/Jesus-Javier-code/Practicas_Empresa_CSIC/discussions"><strong>💬 Discussions</strong></a>
