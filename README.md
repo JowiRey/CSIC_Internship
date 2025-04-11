@@ -77,14 +77,16 @@ Once the application is running, you can use it to:
 - Analyze seismic-volcanic correlations.
 
 ## Contact
+
 For any questions, feel free to reach out:
 
-- emails: alu0101444079@ull.edu.es (Mónica Marín)
-         alu0101436548@ull.edu.es (Joel Reyes)
-         alu0101465142@ull.edu.es (Jesús Javier Apesteguía)
-         alu0101513249@ull.edu.es (Laura Rodríguez)
-- GitHub: https://github.com/JowiRey/CSIC_Internship
+- **Emails**:
+  - Mónica Marín: [alu0101444079@ull.edu.es](mailto:alu0101444079@ull.edu.es)
+  - Joel Reyes: [alu0101436548@ull.edu.es](mailto:alu0101436548@ull.edu.es)
+  - Jesús Javier Apesteguía: [alu0101465142@ull.edu.es](mailto:alu0101465142@ull.edu.es)
+  - Laura Rodríguez: [alu0101513249@ull.edu.es](mailto:alu0101513249@ull.edu.es)
 
+- **GitHub**: [JowiRey/CSIC_Internship](https://github.com/JowiRey/CSIC_Internship)
 
 ## Acknowledgements
 
