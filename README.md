@@ -57,3 +57,46 @@
 - NASA LAADS DAAC (MODIS/VIIRS)
 - Copernicus Open Access Hub (Sentinel)
 - USGS Volcano Hazards Program
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Jesus-Javier-code/Practicas_Empresa_CSIC.git
+2. Install the required dependencies::
+   ```bash
+   pip install -r requirements.txt
+   
+## Usage
+Once the application is running, you can use it to:
+
+-Visualize real-time thermal data of volcanic activity.
+-Generate plots of lava cooling curves.
+-Analyze seismic-volcanic correlations.
+
+## Contact
+For any questions, feel free to reach out:
+
+-emails: alu0101444079@ull.edu.es (Mónica Marín)
+         alu0101436548@ull.edu.es (Joel Reyes)
+         alu0101465142@ull.edu.es (Jesús Javier Apesteguía)
+         alu0101513249@ull.edu.es (Laura Rodríguez)
+-GitHub: https://github.com/JowiRey/CSIC_Internship
+
+
+## Acknowledgements
+
+We would like to acknowledge the following:
+
+- **[University of La Laguna](https://www.ull.es/)** for supporting the academic internship.
+- **[Spanish National Research Council (CSIC)](https://www.csic.es)** for providing resources and the opportunity to work on this project.
+- **[NASA LAADS DAAC](https://ladsweb.modaps.eosdis.nasa.gov/)** for the satellite data used in this research.
+- **[USGS Volcano Hazards Program](https://www.usgs.gov/)** for the earthquake and eruption data.
+- **[Centro Superior de Investigaciones Científicas](https://www.csic.es/es)**
+- **[Instituto de Productos Naturales y Agrobiología](https://ipna.csic.es/)**
+- To **Pablo José González and Thomas Boulesteix** for their collaboration and support throughout the project.
+- Special thanks to **Simone Salvatore Aveni** for providing crucial data for the completion of this project.
+
+
